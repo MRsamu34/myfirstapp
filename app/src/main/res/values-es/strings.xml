@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lesss</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="user_domain_com">usuario@dominio.com</string>
+    <string name="password">Contraseña</string>
+    <string name="your_password">Tu Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="text_welcome">BIENVENIDO</string>}
+    <string name="text_user">Usuario</string>
+    <string name="text_introduction">Introducción</string>
+    <string name="text_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque suscipit
+        blandit turpis ut sagittis. Pellentesque luctus sagittis orci dapibus imperdiet.
+        Nunc facilisis ullamcorper diam at sollicitudin.</string>
+    <string name="text_error">ERROR</string>
+    <string name="text_error_message">Usuario o contraseña invalidos</string>
+    <string name="text_action_search">Buscar</string>
+    <string name="text_action_settings">Configuración</string>
+    <string name="text_action_logout">Cerrar Sesión</string>
+    <string name="hello_blank_fragment">Hola fragmento blanco</string>
+    <string name="ir_al_super">Llevar carro al mantenimiento</string>
+    <string name="car">Ir al supermercado</string>
+    <string name="laundry">Ir a la lavandería</string>
+</resources>
